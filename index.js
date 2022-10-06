@@ -1,1 +1,5 @@
-console.log('hello world');
+
+
+const chamok = require("./second");
+
+console.log('hello world', chamok);
